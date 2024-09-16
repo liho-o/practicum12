@@ -1,4 +1,5 @@
-text = 'jnnnnn bnnndulitdd k43333hkjzzk'
+text = input('Введите текст - ')
+
 
 result = 0
 

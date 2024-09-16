@@ -1,4 +1,4 @@
-text = 'jnnnnn bnnnddd khkjk'
+text = input('Введите текст - ')
 
 result = 0
 for i in range(1, len(text)):

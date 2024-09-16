@@ -1,4 +1,4 @@
-text = 'texxxxt   text    text     dfg     fdg'
+text = input('Введите текст - ')
 
 
 result = 0

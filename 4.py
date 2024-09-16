@@ -1,4 +1,4 @@
-text = 'dfgfdkjgf fglkmdf lkgmfdlglkooo'
+text = input('Введите текст - ')
 
 
 # text = text.replace(' ', '') #если пробел не считается символом
@@ -10,5 +10,6 @@ def ex3_check(text : str):
             return i
 
     return "нет таких символов"
+
 
 print(ex3_check(text))
