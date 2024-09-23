@@ -8,7 +8,6 @@
 text = input('Введите текст')
 
 
-
 def in_sk(text, opn_coun=1):
     result = False
     # print('Начал')
@@ -56,4 +55,3 @@ if main_check(text):
     print('OK')
 else:
     print('WRONG')
-
